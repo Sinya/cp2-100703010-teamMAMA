@@ -1,13 +1,13 @@
 # comments
-# teamXX
-# 100703010, 99XXXXXX, 99XXXXXX
+# teamMAMA
+# 100703010, 100703011, 100703019
 
 function hello1() {
 print(“hello, kiki’s name”);
 }
 
 function hello2() {
-print(hello,I am Sinya.Nice to see you :D);
+print("hello,I am Sinya.Nice to see you :D");
 }
 
 function hello3() {
