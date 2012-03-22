@@ -1,6 +1,6 @@
 # comments
-# teamXX
-# 100703010, 99XXXXXX, 99XXXXXX
+# teamMAMA
+# 100703010, 100703011, 100703019
 
 function hello1() {
 print(“hello, kiki’s name”);
