@@ -7,7 +7,7 @@ print(“hello, kiki’s name”);
 }
 
 function hello2() {
-print(hello,I am Sinya.Nice to see you :D);
+print("hello,I am Sinya.Nice to see you :D");
 }
 
 function hello3() {
